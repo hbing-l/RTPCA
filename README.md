@@ -23,7 +23,7 @@ Please refer to it to set up the Human3.6M dataset (under ./data directory).
 The MPI-INF-3DHP dataset setting follows the [MMPose](https://github.com/open-mmlab/mmpose).
 Please refer it to set up the MPI-INF-3DHP dataset (also under ./data directory).
 
-# Evaluation
+## Evaluation
 
 * Download the checkpoints from [Baidu Disk](https://pan.baidu.com/s/1pu2C7hobuA8mYRWtJ2Bgdg)(54d5);
 
@@ -31,7 +31,7 @@ Then run the command below (evaluate on 243 frames input):
 
 > python run.py -k gt -c <checkpoint_path> --evaluate <checkpoint_file> -f 243 -s 243
 
-# Training from scratch
+## Training from scratch
 
 Training on the 243 frames with two GPUs:
 
