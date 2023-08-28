@@ -25,7 +25,7 @@ Please refer it to set up the MPI-INF-3DHP dataset (also under ./data directory)
 
 ## Evaluation
 
-* Download the checkpoints from [Baidu Disk](https://pan.baidu.com/s/1pu2C7hobuA8mYRWtJ2Bgdg)(54d5);
+* Download the checkpoints from [Google drive](https://drive.google.com/file/d/1hGU1Z_TxzqZXP4aR-0xLqQz_Ucr_wwKQ/view?usp=sharing);
 
 Then run the command below (evaluate on 243 frames input):
 
